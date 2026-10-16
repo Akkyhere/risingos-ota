@@ -1,3 +1,21 @@
 {
-  "response": []
+  "response": [
+    {
+      "maintainer": "Akky",
+      "oem": "Motorola",
+      "device": "motorola g82",
+      "filename": "RisingOS-9-261016-0955-GAPPS-OFFICIAL-rhodep-ota.zip",
+      "download": "https://sourceforge.net/projects/akky-builds/files/RisingOS-v9-A17/RisingOS-9-261016-0955-GAPPS-OFFICIAL-rhodep-ota.zip/download",
+      "timestamp": 1792144290,
+      "md5": "e4bba0add082eeae4fcece524e986810",
+      "sha256": "06e69cf5a2f74af95104e64d83cce43f01b041c91c20cfed0dc15cb2bcb30712",
+      "size": 2792174657,
+      "version": "9-elefthería",
+      "buildtype": "STABLE",
+      "forum": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": ""
+    }
+  ]
 }
